@@ -1,6 +1,5 @@
 
 public class Test {
 
-	
-	dfdsf
+	Sytem.out.println("Hola, mundo!");
 }
